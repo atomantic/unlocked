@@ -1,5 +1,7 @@
 Did someone just walk away from their computer without locking their screen?
 
+> Please note that I have never done this as our current cyber laws classify this as terrorism.
+
 # Hex Dump
 ```
 cat /dev/urandom | hexdump -C | grep "34 32"
